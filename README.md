@@ -2,4 +2,6 @@
 
 ### Laravel Template
 
-This Laravel 7 template will be used to start other projects and will be updated regularly
+This is a blank Laravel 7 template which will be used to start other projects and will be updated regularly
+
+It currently has integrated with it, Travis CI - Continuous tool and Code Climate - Automated Code Review
